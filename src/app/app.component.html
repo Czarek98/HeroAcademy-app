@@ -6,28 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    <button (click)="initNewHero()">Create New Hero</button>
-    <table>
-        <thead>
-            <th>Name</th>
-            <th>First name</th>
-            <th>Last name</th>
-            <th>Place</th>
-        </thead>
-        <tbody>
-            <tr *ngFor="let hero of heroes">
-                <td>{{hero.name}}</td>
-                <td>{{hero.firstName}}</td>
-                <td>{{hero.lastName}}</td>
-                <td>{{hero.place}}</td>
-                <td><button (click)="editHero(hero)">Edit</button></td>
-            </tr>
-        </tbody>
-    </table>
-    <app-edit-hero 
+<body>  
+    <div class="container">
+        <table class="table table-bordered">
+            <thead>
+                <th>Name</th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Place</th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let hero of heroes">
+                    <td>{{hero.name}}</td>
+                    <td>{{hero.firstName}}</td>
+                    <td>{{hero.lastName}}</td>
+                    <td>{{hero.place}}</td>
+                    <td><button mat-raised-button color="primary" (click)="editHero(hero)">Edit</button></td>            
+                </tr>
+            </tbody>
+        </table>
+        <div class="example-button-row">
+            <button mat-raised-button color="primary" (click)="initNewHero()">Create New Hero</button>
+        </div>
+        <app-edit-hero 
         [hero]="heroToEdit"
         (heroesUpdated)="updateHeroList($event)">
     </app-edit-hero>
+    </div> 
 </body>
 </html>
