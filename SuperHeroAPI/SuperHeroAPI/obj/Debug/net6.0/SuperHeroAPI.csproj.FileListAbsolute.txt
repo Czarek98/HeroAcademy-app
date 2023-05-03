@@ -62,3 +62,13 @@ C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAP
 C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.pdb
 C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.genruntimeconfig.cache
 C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\ref\SuperHeroAPI.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\cezar\OneDrive\Dokumenty\NewAngularTraining\HeroAcademy-app\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
