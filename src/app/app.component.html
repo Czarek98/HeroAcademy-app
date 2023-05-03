@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <button (click)="initNewHero()">Create New Hero</button>
     <table>
         <thead>
             <th>Name</th>
@@ -20,8 +21,10 @@
                 <td>{{hero.firstName}}</td>
                 <td>{{hero.lastName}}</td>
                 <td>{{hero.place}}</td>
+                <td><button (click)="editHero(hero)">Edit</button></td>
             </tr>
         </tbody>
     </table>
+    <app-edit-hero [hero]="heroToEdit"></app-edit-hero>
 </body>
 </html>
